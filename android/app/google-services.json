@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276259858353",
+    "project_id": "zezo-a49db",
+    "storage_bucket": "zezo-a49db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276259858353:android:65772e5a573c3dca663f90",
+        "android_client_info": {
+          "package_name": "com.example.zezo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-Wkhey55xW5ugz6hsn8AmWXweMKgJzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
